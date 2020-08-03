@@ -2,7 +2,9 @@
 
 <img src="https://user-images.githubusercontent.com/47691119/89185596-1d454880-d5b8-11ea-8a80-4778ffc45010.jpg" width="600" height="600">
 
-A new Flutter application.
+The Started purpose of this Application is to spread awareness of Covid-19 cases.
+
+This Application can Daily updates the Covid-19 of Cases, Death, Recovered and Active members of peoples in India.
 
 ## Getting Started
 
