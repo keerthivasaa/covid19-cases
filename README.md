@@ -1,4 +1,4 @@
-# zone(covid19 cases)
+# zone(covid19 Info App)
 
 <img src="https://user-images.githubusercontent.com/47691119/89185596-1d454880-d5b8-11ea-8a80-4778ffc45010.jpg" width="600" height="600">
 
